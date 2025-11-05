@@ -1,0 +1,8 @@
+ordinario-ftw/
+.vscode/
+target/
+dist/
+.idea/
+.DS_Store/
+datos/
+.DS_Store
